@@ -16,7 +16,7 @@
 	</a>
 </p>
 
-## Libraryes:
+## Libraryes & Frameworks:
 <p>
 	<a href="https://nodejs.org">
 		<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" width="40"/>
