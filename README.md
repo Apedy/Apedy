@@ -29,6 +29,6 @@
 <h1 align="center">PROJECTS.</h1>
 <p align="center">
 	<a href="https://github.com/Apedy/MinePaint">
-		<img src="https://raw.githubusercontent.com/Apedy/MinePaint/master/docs/image/banner_s1.png" width="500"/>
+		<img src="https://raw.githubusercontent.com/Apedy/MinePaint/master/docs/images/banner.png" width="500"/>
 	</a>
 </p>
