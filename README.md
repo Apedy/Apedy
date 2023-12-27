@@ -3,11 +3,11 @@
 	<a href="https://github.com/Apedy?tab=repositories&language=c%2B%2B">
 		<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="40"/>
 	</a>
-	<a href="https://github.com/Apedy?tab=repositories&language=typescript">
-		<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="40"/>
-	</a>
 	<a href="https://github.com/Apedy?tab=repositories&language=javascript">
 		<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40"/>
+	</a>
+	<a href="https://github.com/Apedy?tab=repositories&language=typescript">
+		<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="40"/>
 	</a>
 	<a href="https://github.com/Apedy?tab=repositories&language=python">
 		<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40"/>
